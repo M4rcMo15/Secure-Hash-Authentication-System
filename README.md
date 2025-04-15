@@ -1,8 +1,8 @@
-#Secure Hash Authentication System
+# **Secure Hash Authentication System**
 
-**Instructions:**
+### **Instructions:**
 
-Hardcode server ip address on Client
+Hardcode server ip address on /src/client.py file
 
 Run server:
 ```python3
