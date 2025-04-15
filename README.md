@@ -2,7 +2,9 @@
 
 ### **Instructions:**
 
-Hardcode server ip address on /src/client.py file
+Hardcode server ip address on:
+/src/client.py
+/src/server.py
 
 Run server:
 ```python3
